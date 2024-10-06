@@ -56,7 +56,6 @@ int main()
         return -1;
     }
 
-
     // build and compile our shader program
     // ------------------------------------
     // vertex shader
